@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreyansh-programmer
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Unreal
+- 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me shreyanshbussiness@gmail.com
 
 <!---
