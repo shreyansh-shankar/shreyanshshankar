@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreyansh-shankar
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Unity
+- 👀 I’m interested in Game development and Android Development
+- 🌱 I’m currently learning C# and Kotlin
+- 💞️ I’m looking to collaborate on Unity, and Android
 - 📫 How to reach me shreyanshbussiness@gmail.com
 
 <!---
