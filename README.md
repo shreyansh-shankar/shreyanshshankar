@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shreyansh-shankar
-- 👀 I’m interested in Game development and Android Development
-- 🌱 I’m currently learning C# and Kotlin
-- 💞️ I’m looking to collaborate on Unity, and Android
+- 👀 I’m interested in Cybersecurity and Ethical hacking.
+- 🌱 I’m currently learning Python, Shell Scripting and Kali linux
 - 📫 How to reach me shreyanshbussiness@gmail.com
 
 <!---
