@@ -12,8 +12,16 @@
 ---
 
 ### 🧰 Tech Toolbox
+
+#### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,java,html,css,js" />
+</p>
+
+#### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,docker" />
 </p>
 
 ---
