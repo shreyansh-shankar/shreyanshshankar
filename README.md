@@ -26,6 +26,14 @@
 
 ---
 
+#### 🧭 TryHackMe Public Profile
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/shankarshreyansh.png">
+</p>
+
+---
+
 ### 🔭 What I'm Working On
 - Setting up **personal hacking environments** with Kali & Metasploit
 - Writing **scripts to automate security tasks**
